@@ -2,5 +2,10 @@ id , name , dept
 13,  manoj , cse
 27,swetha,cse
 
+<<<<<<< HEAD
 Edited in user branch
+=======
+
+Edited in test branch
+>>>>>>> test
 
